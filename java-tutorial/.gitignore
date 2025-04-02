@@ -1,1 +1,4 @@
 /bin/
+
+# .class ファイルを除外
+*.class
