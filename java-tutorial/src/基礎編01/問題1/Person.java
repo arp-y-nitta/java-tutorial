@@ -1,3 +1,5 @@
+package 基礎編01.問題1;
+
 
 public class Person {
 	private String name;
