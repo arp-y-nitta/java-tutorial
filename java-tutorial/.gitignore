@@ -2,3 +2,9 @@
 
 # .class ファイルを除外
 *.class
+
+.settings/
+.classpath
+.project
+
+.DS_Store
